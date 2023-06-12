@@ -8,7 +8,7 @@ Create database ORG.
 Create table Worker,Bonus,Title.
 ### Step 3:
 Insert Value to the tables.
-### Step 4:
+### Step 4: 
 Select firstname from the table worker as name.
 ### Step 5:
 Display the result.
